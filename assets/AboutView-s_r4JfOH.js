@@ -1,0 +1,1 @@
+import{_ as t,c as a,a as o,o as n}from"./index-CecuwtdO.js";const r={};function s(c,e){return n(),a("div",null,[...e[0]||(e[0]=[o("h1",null,"关于我们",-1),o("p",null,"这是 About 页面。",-1)])])}const _=t(r,[["render",s],["__scopeId","data-v-dbbb7a62"]]);export{_ as default};
